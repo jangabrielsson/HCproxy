@@ -1,0 +1,5 @@
+{"type":"com.fibaro.rollerShutter","baseType":"com.fibaro.actor",
+  "interfaces":["energy","levelChange","power","zwave","zwaveMultiChannelAssociation","zwaveSwitchAll"],
+  "properties":{"parameters":[],"categories":"[\"blinds\"]","configured":true,"dead":"false","energy":"0.00","power":"0.00","value":"99"},
+  "actions":{"close":0,"open":0,"reconfigure":0,"reset":0,"setValue":1,"startLevelDecrease":0,"startLevelIncrease":0,"stop": 0,"stopLevelChange":0},
+}

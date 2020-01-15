@@ -1,0 +1,6 @@
+docker run -e HC2DOCK=TRUE \
+    --rm \
+    --net hauto \
+    -v $(pwd)/data:/var/local/hc2proxy/ \
+    -v $(pwd):/develop \
+    jangabrielsson/hc2proxy HC2proxy.lua --log

@@ -1,0 +1,14 @@
+{"type":"com.fibaro.FGRGBW441M","baseType":"com.fibaro.colorController",
+  "interfaces":["deviceGrouping","energy","levelChange","light","power","zwave","zwaveConfiguration"],
+  "properties": {
+    "parameters":[],"buttonType": "0","dead": "false","markAsDead": "true",
+    "energy": "0.94","power": "0.00","isLight": "false",
+    "lastColorSet":"0,0,0,0","rememberColor":"true","favoriteProgram":"0","currentProgramID":"0","currentProgram":"0",
+    "r":"0","g":"0","b":"0","w": "0","brightness": "0","color": "0,0,0,0","mode": "0","value": "0",
+  },
+  "actions": {
+    "associationGet": 1,"associationSet": 2,"getParameter": 1,"reconfigure": 0,"reset": 0,
+    "setB": 1,"setG": 1,"setR": 1,"setW": 1,"setBrightness": 1,"setColor": 1,"setFavoriteProgram": 2,
+    "setParameter": 2,"setValue": 1,
+    "startProgram":1,"stopLevelChange":0,"startLevelDecrease":0,"startLevelIncrease":0,"turnOff":0,"turnOn":0}
+}

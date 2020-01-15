@@ -1,0 +1,5 @@
+{"type":"com.fibaro.FGWP102","baseType":"com.fibaro.FGWP","enabled":true,
+   "interfaces":["deviceGrouping","energy","power","zwave","zwaveAlarm","zwaveMultiChannelAssociation"],
+   "properties":{"color":"white","dead":"false","deadReason":"","energy":"264.49","markAsDead":"true","value":"true"},
+   "actions":{"turnOff":0,"turnOn":0}
+}

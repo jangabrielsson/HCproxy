@@ -1,0 +1,5 @@
+{"type":"com.fibaro.binarySwitch","baseType":﻿"com.fibaro.actor",
+   "interfaces":["deviceGrouping","light","zwave","zwaveMultiChannelAssociation"],
+   "properties":{"parameters":[],"dead":"false","deadReason":"","isLight":"true","markAsDead":"true","value":"false"},
+   "actions":{"abortUpdate":1,"reconfigure":0,"retryUpdate":1,"startUpdate":1,"turnOff":0,"turnOn":0,"updateFirmware":1},
+}

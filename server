@@ -1,0 +1,5 @@
+docker run --publish 8888:8888 --network hauto \
+   -h HC2proxy --name HC2proxy --rm \
+   -v $(pwd)/data:/var/local/hc2proxy/ \
+   -v $(pwd):/develop \
+   jangabrielsson/hc2proxy HC2proxy.lua

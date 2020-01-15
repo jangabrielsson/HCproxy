@@ -1,0 +1,6 @@
+docker run \
+    --network hauto \
+    -it --rm \
+    -v $(pwd):/develop \
+    -v $(pwd)/data:/var/local/hc2proxy/ \
+    jangabrielsson/hc2proxy HC2proxy.lua --cli

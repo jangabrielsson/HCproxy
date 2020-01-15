@@ -1,0 +1,8 @@
+{"type":"com.fibaro.multilevelSwitch","baseType":"com.fibaro.binarySwitch",
+   "interfaces":["deviceGrouping","levelChange","light","power","zwave","zwaveConfiguration","zwaveSceneActivation"],
+   "properties":{"parameters":[],"configured":"true","dead":"false","power":"0.00","armed":"0","powerConsumption":"42",
+   "sceneActivation":"0","value":"0"},
+   "actions":{
+      "associationGet":1,"associationSet":2,"getParameter":1,"setParameter":2,"setProperty":2,"setValue":1,
+      "startLevelDecrease":0,"startLevelIncrease":0,"stopLevelChange":0,"turnOff":0,"turnOn":0}
+}

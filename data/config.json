@@ -1,0 +1,8 @@
+{
+"HC2_USER"    : "jan@gabrielsson.com",
+"HC2_PWD"     : "paswrd",
+"HC2_IP"      : "192.168.1.84",
+"MOBDEBUG"    : false, 
+"AUTOGLOBALS" : true,
+"AUTODEVICES" : true
+}
